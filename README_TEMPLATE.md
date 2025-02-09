@@ -1,4 +1,6 @@
-# n8n-nodes-_node-name_
+# n8n-nodes-sendgrid
+
+Using programmatic style coding. Follows [guide](https://docs.n8n.io/integrations/creating-nodes/build/programmatic-style-node/)
 
 This is an n8n community node. It lets you use _app/service name_ in your n8n workflows.
 
